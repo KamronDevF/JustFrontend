@@ -1,0 +1,876 @@
+.parent{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.mother{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.homepage{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.razdel1{
+    width: 100%;
+    height: auto;
+}
+.logo1{
+    display: flex;
+    justify-content: start  ;
+}
+.logo{
+    display: flex;
+    justify-content: start  ;
+}
+.razdel2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 10px;
+    justify-content: end;
+}
+.pink1{
+    margin-top: 23px;
+    width: 60px;
+height: 30px;
+gap: 8px;
+border-radius: 8px 8px 8px 8px;
+background-color: #BE52F2;
+color: white;
+border: none;
+outline: none;
+}
+.pink{
+    margin-top: 7px;
+    width: 60px;
+height: 30px;
+gap: 8px;
+border-radius: 8px 8px 8px 8px;
+background-color: #BE52F2;
+color: white;
+border: none;
+outline: none;
+}
+.pasc{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.raz1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.raz2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h{
+    font-size: 48px;
+    font-style: H3/Semi Bold;
+}
+.keremas{
+    width: 100%;
+    height: 30px;
+}
+.mel{
+    width: 100%;
+    height: auto;
+}
+.showvid{
+    border-radius: 4px 4px 4px 4px;
+    border: 1px solid;
+}
+.rate{
+    width: auto;
+    height: auto;
+}
+.div2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.r1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.r2{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.inr1{
+width: 100%;
+height: auto;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.inr2{
+    width: 100%;
+    height: auto;
+}
+.txtd{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+.icong{
+    width: 40px;
+height: 40px;
+}
+.onlytxt{
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.divonl{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.only{
+    width: 14%;
+    height: auto;
+    display: flex; 
+}
+.onlmg{
+    width: 36px;
+height: 36px;
+}
+.question{
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    box-sizing: border-box;
+}
+.qdiv{
+    width: 100%;
+    height: auto;
+    display: flex;  
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.qdq{
+    width: 715px;
+    height: auto;
+    display: flex;
+    border: 0.5px solid rgb(182, 182, 182);
+    border-radius: 8px 8px 8px 8px;
+}
+.qdq2{
+    width: 715px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border: 0.5px solid rgb(182, 182, 182);
+}
+.joyol{
+    width: 100%;
+    height: auto;
+}
+.iconm{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    width: 24px;
+height: 24px;
+}
+.pinkd{
+    width: 527px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(312, 71%, 96%);
+    border-radius: 8px 8px 8px 8px;
+}
+.pink2{
+    width: auto;
+    height: auto;
+    display: flex;
+border-radius: 8px 8px 8px 8px;
+background-color: #BE52F2;
+color: white;
+border: none;
+outline: none;
+}
+.ico{
+    margin-top: 13px;
+}
+.creators{
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.ctxt{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pu{
+    color: #667085;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.mred{
+    color: #BE52F2;
+}
+.obo{
+    margin-top: -15px;
+    color: #667085;
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.char{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+.charop{
+border-radius: 32px 32px 32px 32px;
+    width: 276px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #E9C5FB4D;
+}
+.charop2{
+    border-radius: 32px 32px 32px 32px;
+        width: 276px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: #E9C5FB4D;
+}
+.charico{
+    width: 80px;
+    height: 80px;
+}
+.soha{
+    margin-top: -15px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #002966;
+}
+.pinkrazdel{
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bitta{
+    width: 1216px;
+    height: auto;
+    background: #E9C5FB4D;
+    border-radius: 32px 32px 32px 32px;
+    display: flex;
+}
+.fig1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.h2{
+margin-left: 88px;
+font-family: Inter;
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #002966;
+}
+.pkok{
+
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #002966;
+}
+.inbut{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pinkback1{
+    display: none;
+}
+.nb{
+    width:340pxpx;
+height: 44pxpx;
+gap: 4px;
+    border: none;
+    outline: none;
+}
+.fig2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.partners{
+    margin-top: 50px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.txto{  
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.part{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 30px;
+}
+.pa1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.pa2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.pa3{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.pa4{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}
+.po1,
+.po2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 30px; 
+}
+.lastdiv{
+    margin-top: 100px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+.lall{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.ld{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.smedia{
+    width: 132px;
+    height: 24px;
+}
+.o{
+   color: #787a7e;
+}
+.lastmini{
+    width: 100%;
+    height: auto;
+    border: none;
+    border-top: 1px solid black;
+    display: flex;
+    gap: 54%;
+}
+.go{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 40px;
+}
+.plast{
+    width: 347px;
+height: 24px;
+color: #141C24;
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.plast2{
+    color: #BE52F2;
+}
+.txtp{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #002966;    
+}
+.txtp2{
+    margin-top: -15px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #002966;   
+}
+@media only screen and (width<768px) {
+    .parent{
+        width: 768px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+    }
+    .pasc{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .raz1{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .raz2{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .r2{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        align-items: center;
+        justify-content: center;
+    }
+    .pt{
+        display: none;
+    }
+    .part{
+        width: 100%;
+        height: auto;
+        display: flex;
+        gap: 30px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .po1{
+        width: 100%;
+        height: auto;
+        display: flex;
+    }
+    .po2{
+        width: 100%;
+        height: auto;
+        display: flex;
+    }
+    .pa1{
+        width: 50%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 100px;
+        justify-content: start;
+        align-items: start;
+    }
+    .pa2{
+        width: 50%;
+        height: auto;
+        display: flex;
+        gap: 100px;
+        align-items: start;
+        justify-content: start;
+    }
+    .pa3{
+        width: 50%;
+        height: auto;
+        display: flex;
+        gap: 100px;
+        align-items:start;
+        justify-content:start;
+    }
+    .pa4{
+        width: 50%;
+        height: auto;
+        display: flex;
+        gap: 100px; 
+        align-items:start;
+        justify-content:start;
+    }
+    .lastmini{
+        width: 100%;
+        height: auto;
+        border: none;
+        border-top: 1px solid black;
+        display: flex;
+        gap: 35%;
+    }
+    .charop2{
+            display: none;
+        }
+    .inr2{
+            width: 100%;
+            height: auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+    }
+}
+@media only screen and (width<375px) {
+    .inr1{
+        width: 100%;
+height: auto;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+    }
+    .raz1{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .mel{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .showvid{
+        width: 343px;
+        height: 40px;
+        border-radius: 4px 4px 4px 4px;
+        border: 1px solid;
+    }
+    .rate{
+        width: 140px;
+        height: 28px;
+    }
+    .pink{
+        margin-top: 7px;
+        width: 343px;
+        height: 40px;
+    gap: 8px;
+    border-radius: 8px 8px 8px 8px;
+    background-color: #BE52F2;
+    color: white;
+    border: none;
+    outline: none;
+    }
+    .txtd{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .divonl{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .qdq{
+        width: 715px;
+        height: auto;
+        display: flex;
+        border: 0.5px solid rgb(182, 182, 182);
+        border-radius: 8px 8px 8px 8px;
+    }
+    .qdq2{
+        width: 715px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        border: 0.5px solid rgb(182, 182, 182);
+    }
+    .pink2{
+        width: 343px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    border-radius: 8px 8px 8px 8px;
+    background-color: #BE52F2;
+    color: white;
+    border: none;
+    outline: none;
+    }
+    .ico{
+        margin-top: 1px;
+    }
+    .char{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 32px;
+    }
+    .inbut{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .fig2{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: start;
+        align-items: start;
+    }
+    .pkok{
+        margin-top: -15px;
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 28px;
+        text-align: center;
+        text-underline-position: from-font;
+        text-decoration-skip-ink: none;
+        color: #002966;
+    }
+    .part{
+        width: 100%;
+        height: auto;
+        display: flex;
+        gap: 30px;
+    }
+    .pa1{
+        width: 100%;
+        height: auto;
+        display: flex;
+        gap: 30px;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .pa2{
+        width: 100%;
+        height: auto;
+        display: flex;
+        gap: 30px;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .pa3{
+        width: 100%;
+        height: auto;
+        display: flex;
+        gap: 30px;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .pa4{
+        width: 100%;
+        height: auto;
+        display: flex;
+        gap: 30px;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column; 
+    }
+    .po1,
+    .po2{
+        width: 100%;
+        height: auto;
+        display: flex;
+        gap: 30px; 
+        flex-direction: column;
+    }
+    .lall{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .smedia{
+        width: 132px;
+        height: 24px;
+        margin-left: 40%;
+    }
+    .lastmg{
+        width: 291px;
+        height: 172px;
+        margin-left: 40%;
+    }
+    .lastmini{
+        width: 100%;
+        height: auto;
+        border: none;
+        border-top: 1px solid black;
+        display: flex;
+        flex-direction: column;
+    }
+    .logo{
+        display: flex;
+        justify-content: center;
+        width: 187px;
+height: 70px;
+margin-left: 40%;
+    }
+    .go{
+        width: 100%;
+        height: auto;
+        display: flex;
+        gap: 40px;
+        align-items: center;
+        justify-content: center;
+        /* margin-left: 40%; */
+    }
+    .kol{
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #344051;
+    }
+    .plast{
+        width: 347px;
+    height: 24px;
+    color: #141C24;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    }
+}
